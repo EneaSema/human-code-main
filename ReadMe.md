@@ -12,7 +12,7 @@ Domani è il compleanno di Silvia e non le ho ancora comprato nulla! Mi piacereb
 
 - Guardo lista desideri di Silvia
 - cerco un regalo su Amazon
-  visualizzo scheda prodotto
+- visualizzo scheda prodotto
 
   - SE rientra nel budget AND arriva in tempo
     compro il regalo
